@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aris187 ID
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  H4CK3RS404
 <p align="center">
 <img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/temp/A187.jpg" width="230" height="230"/>
 </p>
@@ -67,7 +67,6 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
-|       ✅       | Covid (new)                      |
 |       ✅       | Alay (new)                       |
 |       ✅       | Lirik (new)                      |
 |       ✅       | Foto Anime                       |
